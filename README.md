@@ -35,4 +35,8 @@ Having identified P and P', the correct plaintext is x in P that has maximum chu
 
 
 
+
+
+
+#References
 Juels, Ari, and Thomas Ristenpart. "Honey encryption: Security beyond the brute-force bound." Advances in Cryptology–EUROCRYPT 2014: 33rd Annual International Conference on the Theory and Applications of Cryptographic Techniques, Copenhagen, Denmark, May 11-15, 2014. Proceedings 33. Springer Berlin Heidelberg, 2014.
