@@ -1,4 +1,4 @@
-# faulty_honey_encryption
+## faulty_honey_encryption
 This reppository is intended to indicate a possible vulnerability in honey encryption methodology
 
 The honey encryption methodology is implemented in "encrypt.py", which is taken from repository: https://github.com/torjusbr/bip39-honey-encryption.
@@ -38,5 +38,5 @@ Having identified P and P', the correct plaintext is x in P that has maximum chu
 
 
 
-#References
+# References
 Juels, Ari, and Thomas Ristenpart. "Honey encryption: Security beyond the brute-force bound." Advances in Cryptology–EUROCRYPT 2014: 33rd Annual International Conference on the Theory and Applications of Cryptographic Techniques, Copenhagen, Denmark, May 11-15, 2014. Proceedings 33. Springer Berlin Heidelberg, 2014.
