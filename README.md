@@ -1,4 +1,4 @@
-## faulty_honey_encryption
+# faulty_honey_encryption
 This reppository is intended to indicate a possible vulnerability in honey encryption methodology
 
 The honey encryption methodology is implemented in "encrypt.py", which is taken from repository: https://github.com/torjusbr/bip39-honey-encryption.
@@ -10,7 +10,7 @@ This dataset can be identified with txt files "plaintexter_*.txt".
 
 In current scenario, the correct plaintext is sequence of words "arm, armed, army". We can think each individual word as chunk of plaintext.
 
-# Approach
+## Approach
 In my statisitcal analysis, my basic hypothesis is that real world plaintexts are contextual, i.e. one part of the text can be somewhat related to the other part.
 
 In this course, one could consider employing NLP approaches to determine similarity in some suitable notion.
@@ -38,5 +38,5 @@ Having identified P and P', the correct plaintext is x in P that has maximum chu
 
 
 
-# References
+## References
 Juels, Ari, and Thomas Ristenpart. "Honey encryption: Security beyond the brute-force bound." Advances in Cryptology–EUROCRYPT 2014: 33rd Annual International Conference on the Theory and Applications of Cryptographic Techniques, Copenhagen, Denmark, May 11-15, 2014. Proceedings 33. Springer Berlin Heidelberg, 2014.
