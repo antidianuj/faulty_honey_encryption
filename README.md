@@ -1,5 +1,5 @@
 # faulty_honey_encryption
-This reppository is intended to indicate a possible vulnerability in honey encryption methodology
+This repository is intended to indicate a possible vulnerability in honey encryption methodology
 
 The honey encryption methodology is implemented in "encrypt.py", which is taken from repository: https://github.com/torjusbr/bip39-honey-encryption.
 
